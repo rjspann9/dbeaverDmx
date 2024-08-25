@@ -1,0 +1,16 @@
+An initial working version of DataMagiX
+
+This is a simple proof of concept of adding functionality to DBeaver.
+
+(After selecting the "Test Hello" menu item from the DataMagiX menu,
+	a simple java module is written to C:\DmxDBeaverTest folder.)
+
+Author:    Robert Spann <spann@panopli.net>
+
+ On branch DataMagiX240820
+ Changes to be committed:
+	modified:   build.cmd
+	modified:   features/org.jkiss.dbeaver.standalone.feature/pom.xml
+	modified:   features/pom.xml
+	modified:   plugins-dev/org.jkiss.dbeaver.ext.test/plugin.xml
+	modified:   plugins/pom.xml
